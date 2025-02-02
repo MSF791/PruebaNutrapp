@@ -1,0 +1,15 @@
+/node_modules/
+
+*.log
+logs/
+
+.vscode/
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+*.test.js
+*.spec.js
+
+/.cache/
